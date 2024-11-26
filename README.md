@@ -24,10 +24,7 @@ Ce projet a pour objectif d’approfondir les connaissances sur la bibliothèque
 
 
 ## **Synthèse**
-À l’issue de ce projet, les principales conclusions incluent :  
-- La comparaison des performances entre les architectures CNN, Faster R-CNN et Vision Transformers sur des données simples comme MNIST.  
-- Les avantages du fine-tuning des modèles pré-entraînés pour améliorer les résultats.  
-- Une meilleure compréhension des forces et limites de chaque architecture pour les tâches de vision par ordinateur.  
+Ce projet vise à approfondir les connaissances sur la bibliothèque PyTorch en développant des architectures neuronales avancées pour la vision par ordinateur. La première partie est consacrée à la conception et à l'évaluation de réseaux de neurones convolutifs (CNN) pour la classification d'images à l'aide du dataset MNIST. Elle inclut également une exploration des modèles Faster R-CNN et des techniques de fine-tuning basées sur des modèles pré-entraînés comme VGG16 et AlexNet. Les performances des différentes approches sont comparées selon plusieurs métriques, notamment la précision, le score F1, la perte et le temps d'entraînement. La deuxième partie se concentre sur les Vision Transformers (ViT), une architecture innovante ayant démontré des performances remarquables en vision par ordinateur. En suivant un tutoriel de référence, un modèle ViT est implémenté à partir de zéro et utilisé pour une tâche de classification sur le même dataset, puis comparé aux résultats obtenus avec les modèles CNN et Faster R-CNN. Ce projet permet de maîtriser la conception et l'évaluation de modèles d'apprentissage profond, de comprendre les particularités des architectures CNN et ViT, et de tirer des conclusions sur leurs performances respectives dans différents contextes.
 
 ## **Ressources**
 - [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)  
