@@ -1,5 +1,5 @@
 
-# **LAB 2 **
+# LAB 2 
 
 ## **Description**
 Ce projet a pour objectif d’approfondir les connaissances sur la bibliothèque **PyTorch** en développant des architectures neuronales avancées pour la vision par ordinateur. Il est structuré en deux parties principales :  
